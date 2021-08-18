@@ -13,6 +13,10 @@ a{
   text-decoration: none;
   color: white;
   font-family: 'Nova Square', sans-serif;
+  transition: 0.3s all ease;
+}
+a:hover{
+  color: #04b051;
 }
 p{
   margin: 15px 0;
